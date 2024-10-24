@@ -1,4 +1,4 @@
-/* @author(s): Zawad Atif, Nafisah Nubah
+/* @author(s): Zawad Atif
  * Date Started: 2024-10-18
  */
 
